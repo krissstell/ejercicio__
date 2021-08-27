@@ -1,0 +1,17 @@
+.section-body{
+    max-width: 14.40rem;
+}
+
+.tags__item{
+    width: 40rem;
+    
+    height: 35rem;
+    
+    margin-top: 4.5rem;
+}
+
+.tags__item img{
+    
+    width: 40rem;
+    margin-top: 4rem;
+}
